@@ -1,1 +1,1 @@
-declare module 'downloadqueue';
+declare module 'downloads-queue-go';
