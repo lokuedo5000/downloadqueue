@@ -7,7 +7,7 @@ Este es un módulo de Node.js llamado `DownloadQueue` que permite descargar arch
 Para instalar este módulo, Abre tu terminal y ejecuta el siguiente comando:
 
 ```bash
-npm install downloadqueue
+npm install downloads-queue-go
 ```
 
 ## Uso
@@ -15,7 +15,7 @@ npm install downloadqueue
 Una vez que hayas instalado el módulo, puedes usarlo en tus proyectos de Node.js. Aquí tienes un ejemplo de cómo importar y usar la clase `DownloadQueue` en tu código:
 
 ```javascript
-const DownloadQueue = require("downloadqueue");
+const DownloadQueue = require("downloads-queue-go");
 
 // Encolar descarga
 downloadQueue.enqueue({
@@ -38,7 +38,7 @@ downloadQueue.enqueue({
 ## Uso Personalizado de la Cola de Descargas
 
 ```javascript
-const DownloadQueue = require("downloadqueue");
+const DownloadQueue = require("downloads-queue-go");
 
 // Lista de archivos para descargar
 const filesToDownload = [
@@ -77,7 +77,7 @@ Si encuentras algún problema o necesitas ayuda con el módulo `DownloadQueue`, 
 
 ### Informar un Problema
 
-Si crees que has encontrado un error o un problema con el módulo, por favor crea un "issue" en el repositorio oficial en [GitHub](https://github.com/lokuedo5000/downloadqueue/issues). Asegúrate de proporcionar la siguiente información al informar un problema:
+Si crees que has encontrado un error o un problema con el módulo, por favor crea un "issue" en el repositorio oficial en [GitHub](https://github.com/lokuedo5000/downloads-queue-go/issues). Asegúrate de proporcionar la siguiente información al informar un problema:
 
 - Descripción detallada del problema.
 - Paso a paso para reproducir el problema.

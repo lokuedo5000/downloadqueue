@@ -1,13 +1,13 @@
 {
-  "name": "downloadqueue",
+  "name": "downloads-queue-go",
   "version": "1.0.0",
   "description": "A utility for efficiently managing file download queues using Node.js. This library allows you to add downloads to a queue and process them sequentially, tracking progress and handling success and error events.",
-  "homepage": "https://github.com/lokuedo5000/downloadqueue",
+  "homepage": "https://github.com/lokuedo5000/downloads-queue-go",
   "main": "index.js",
-  "types": "downloadqueue.d.ts",
+  "types": "downloads-queue-go.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lokuedo5000/downloadqueue.git"
+    "url": "https://github.com/lokuedo5000/downloads-queue-go.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,14 +24,14 @@
     "https",
     "file download",
     "download utility",
-    "downloadqueue",
+    "downloads-queue-go",
     "file-downloader-go"
   ],
   "author": "Lwte",
   "license": "MIT",
   "files": [
     "index.js",
-    "downloadqueue.d.ts"
+    "downloads-queue-go.d.ts"
   ],
   "dependencies": {
     "file-downloader-go": "^1.0.1"
