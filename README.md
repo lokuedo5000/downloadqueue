@@ -1,6 +1,6 @@
 # Documentación del Módulo DownloadQueue
 
-Este es un módulo de Node.js llamado `DownloadQueue` que permite descargar archivos desde una URL y guardarlos localmente en el sistema de archivos. A continuación, encontrarás información sobre cómo instalar y usar este módulo en tus proyectos.
+`downloads-queue-go`: Una utilidad para gestionar eficientemente colas de descargas de archivos en Node.js. Esta biblioteca te permite agregar descargas a una cola y procesarlas secuencialmente, mientras realiza un seguimiento del progreso y maneja eventos de éxito y error en tus descargas de archivos.
 
 ## Instalación
 
